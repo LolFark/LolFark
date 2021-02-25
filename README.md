@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Eric 👋
+
+**Currently open to career opportunities** :loudspeaker:
+
+***Here's my LinkedIn:*** https://www.linkedin.com/in/ericzhao-/
+
+### 🔭 I’m currently working on:
+- Full time job as a full stack software engineer using TypeScript as the main language
+- I also have experience with Android (Kotlin) and iOS development (Swift) :iphone: 
+
+### 🌱 I’m currently learning:
+- React.js for fun (currently use Vue.js)
+- SwiftUI 
+
 
 <!--
 **LolFark/LolFark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
